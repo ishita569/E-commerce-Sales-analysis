@@ -27,9 +27,9 @@ The dashboard consists of 3 pages:
 3. **Geography & Timing** – City performance, peak hours, best vs worst cities
 
 ### Dashboard Preview
-![Overview]
-![Key Drivers]
-![Demographics]
+![Overview] https://github.com/ishita569/E-commerce-Sales-analysis/blob/main/Overview.png
+![Key Drivers] https://github.com/ishita569/E-commerce-Sales-analysis/blob/main/Key%20drivers.png
+![Demographics] https://github.com/ishita569/E-commerce-Sales-analysis/blob/main/Demographics.png
 
 ## Key Insights
 - A small number of products drive the majority of revenue (Pareto effect)
